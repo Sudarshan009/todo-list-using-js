@@ -1,0 +1,25 @@
+#inputfield {
+  outline: none;
+  font-size: 15px;
+  vertical-align: middle;
+}
+
+.container.box-container {
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid gray;
+  width: 50%;
+  padding: 20px;
+  background: #f7f7f1;
+}
+
+body {
+  background-color: #e0dada;
+}
+
+p {
+  border-bottom: 1px solid;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+}
